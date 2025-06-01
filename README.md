@@ -1,4 +1,5 @@
-# pauytrh
+<center>
+# pauytrht
 ### Professional Yapper | I use Arch BTW
 
 A useless dev literately doing nothing
@@ -22,3 +23,4 @@ A useless dev literately doing nothing
 - [Website](pauytrh.github.io/my-website1)
 - [YouTube](youtube.com/@pauytrh)
 - [Email](mailto:pauytrh@gmail.com)
+</center>
