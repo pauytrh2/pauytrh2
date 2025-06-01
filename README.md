@@ -31,14 +31,14 @@ Beginner: `Rust` `Git`
 
 ---
 
-🤝 **Connect With Me**
+🤝 **Socials**
 
-[GitHub](https://github.com/pauytrh2)
+*[GitHub](https://github.com/pauytrh2)*
 
-[Website](pauytrh.github.io/my-website1)
+*[Website](pauytrh.github.io/my-website1)*
 
-[YouTube](youtube.com/@pauytrh)
+*[YouTube](youtube.com/@pauytrh)*
 
-[Email](mailto:pauytrh@gmail.com)
+*[Email](mailto:pauytrh@gmail.com)*
 
 </div>
