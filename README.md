@@ -32,9 +32,13 @@ Beginner: `Rust` `Git`
 ---
 
 🤝 **Connect With Me**
+
 [GitHub](https://github.com/pauytrh2)
+
 [Website](pauytrh.github.io/my-website1)
+
 [YouTube](youtube.com/@pauytrh)
+
 [Email](mailto:pauytrh@gmail.com)
 
 </div>
