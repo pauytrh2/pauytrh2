@@ -1,9 +1,9 @@
 <h1 align="center">Hello 🙋‍♂️, im pauytrh</h1>
-<h3 align="center">A frontend beginner and a python programmer (also recently c).</h3>
+<h3 align="center">A frontend beginner and a python programmer (also recently Rust).</h3>
 
 - 🔴 I’m currently working on [My website](https://pauytrh.github.io/my-website1/)
 
-- 🟢 I’m currently learning **C**
+- 🟢 I’m currently learning **Rust**
 
 - 🟠 I’m looking to collaborate on **Python discord bots**
 
