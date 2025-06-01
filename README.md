@@ -1,26 +1,26 @@
-<h1 align="center">Hello 🙋‍♂️, im pauytrh</h1>
-<h3 align="center">A frontend beginner and a python programmer (also recently Rust).</h3>
+<img src="github.com/pauytrh2.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-- 🔴 I’m currently working on [My website](https://pauytrh.github.io/my-website1/)
+# pauytrh
+### Professional Yapper | I use Arch BTW
 
-- 🟢 I’m currently learning **Rust**
+A useless dev literately doing nothing
 
-- 🟠 I’m looking to collaborate on **Python discord bots**
+🛠️ **Tech Stack**
+- Intermediate: `HTML/CSS` `C` `Python`
+- Advanced: `Linux` `Praising linus`
+- Beginner: `Rust` `Git`
 
-- 🟡 I’m looking for help with **My website**
+🔭 **Featured Projects**
+- [PauyOS](https://github.com/pauytrh2/PauyOS_reimagined/) - Worst OS to exist
 
-- 👨‍💻 All of my projects are available at [**my website**](https://pauytrh.github.io/my-website1/)
-
-- 🔵 How to reach me **https://discord.com/users/1147880980678463619**
-
-- 😏 Fun fact **I started in scratch**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/1147880980678463619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1147880980678463619" height="30" width="40" /></a>
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pauytrh2&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauytrh2&theme=dark" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauytrh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pauytrh" /></p>
+🤝 **Connect With Me**
+- [GitHub](https://github.com/pauytrh2)
+- [Website](pauytrh.github.io/my-website1)
+- [YouTube](youtube.com/@pauytrh)
+- [Email](mailto:pauytrh@gmail.com)
