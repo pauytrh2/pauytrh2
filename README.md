@@ -1,7 +1,7 @@
 <div align="center">
   
 # pauytrh
-### Professional Yapper **|** I use Arch BTW
+### Professional Yapper **||** I use Arch BTW
 
 A useless dev literately doing nothing
 
