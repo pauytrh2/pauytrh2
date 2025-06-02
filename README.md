@@ -1,9 +1,9 @@
 <div align="center">
   
 # pauytrh
-### Professional Yapper **&&** I use Arch BTW
+### Professional Microsoft Hater **&&** Arch user BTW
 
-A useless dev *(literately doing nothing)*
+A useless dev *(I do absolutely nothing)*
 
 ---
 
