@@ -31,6 +31,12 @@ Beginner: `Rust` `Git`
 
 ---
 
+🌧 **Current Mood Board**
+
+![Mood Board](assets/moodboard.png)
+
+---
+
 🤝 **Socials**
 
 *[GitHub](https://github.com/pauytrh2)*
