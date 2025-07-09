@@ -33,7 +33,7 @@ Beginner: `Rust` `Git`
 
 🌧 **Current Mood Board**
 
-![Mood Board](assets/moodboard.png)
+![Mood Board](https://github.com/pauytrh2/dotfiles/blob/main/Pictures/moodboard/moodboard.png)
 
 ---
 
