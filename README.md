@@ -13,13 +13,7 @@ Intermediate: `HTML/CSS` `C` `Python`
 
 Advanced: `Linux` `Praising linus`
 
-Beginner: `Rust` `Git`
-
----
-
-🔭 **Featured Projects**
-
-[PauyOS](https://github.com/pauytrh2/PauyOS_reimagined/) - Worst OS to exist
+Beginner: `Rust` `Git` `Vim/NeoVim`
 
 ---
 
