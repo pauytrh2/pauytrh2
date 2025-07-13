@@ -18,10 +18,8 @@ Beginner: `Rust` `Git` `Vim/NeoVim`
 ---
 
 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauytrh2&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauytrh2&theme=dark" alt="GitHub Streak" />
-</p>
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/pauytrh2/stats)
 
 ---
 
