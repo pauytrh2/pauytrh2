@@ -33,7 +33,7 @@ Beginner: `Rust` `Git` `Vim/NeoVim`
 
 *[GitHub](https://github.com/pauytrh2)*
 
-*[Website](pauytrh.github.io/my-website1)*
+*[Website](pauytrh2.github.io)*
 
 *[YouTube](youtube.com/@pauytrh)*
 
