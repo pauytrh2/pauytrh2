@@ -7,29 +7,19 @@ A useless dev *(I do absolutely nothing)*
 
 ---
 
-🛠️ **Tech Stack**
-
-Intermediate: `HTML/CSS` `C` `Python`
-
-Advanced: `Linux` `Praising linus`
-
-Beginner: `Rust` `Git` `Vim/NeoVim`
-
----
-
-📊 **GitHub Stats**
+**GitHub Stats**
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/pauytrh2/stats)
 
 ---
 
-🌧 **Current Mood Board**
+**Modd Board**
 
 ![Mood Board](https://github.com/pauytrh2/dotfiles/blob/main/Pictures/moodboard/moodboard.png)
 
 ---
 
-🤝 **Socials**
+**Socials**
 
 *[GitHub](https://github.com/pauytrh2)*
 
