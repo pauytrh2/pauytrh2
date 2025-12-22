@@ -17,9 +17,9 @@ A useless dev *(I do absolutely nothing)*
 
 *[GitHub](https://github.com/pauytrh2)*
 
-*[Website](pauytrh2.github.io)*
+*[Website](https://pauytrh2.github.io)*
 
-*[YouTube](youtube.com/@pauytrh)*
+*[YouTube](https://youtube.com/@pauytrh)*
 
 *[Email](mailto:pauytrh@gmail.com)*
 
