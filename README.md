@@ -7,13 +7,7 @@ A useless dev *(I do absolutely nothing)*
 
 ---
 
-**GitHub Stats**
-
-![Github Stats](https://greptile-stats.vercel.app/api/widget/pauytrh2/stats)
-
----
-
-**Modd Board**
+**Mood Board**
 
 ![Mood Board](https://github.com/pauytrh2/dotfiles/blob/main/Pictures/moodboard/moodboard.png)
 
