@@ -23,4 +23,6 @@ A useless dev *(I do absolutely nothing)*
 
 *[Email](mailto:pauytrh@gmail.com)*
 
+![Facebook](https://www.stallman.org/no-facebook.svg)
+
 </div>
