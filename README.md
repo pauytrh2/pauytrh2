@@ -15,7 +15,7 @@ A useless dev *(I do absolutely nothing)*
 
 **Socials**
 
-*[GitHub](https://github.com/pauytrh2)*
+*[Codeberg](https://codeberg.com/pauytrh)*
 
 *[Website](https://pauytrh2.github.io)*
 
