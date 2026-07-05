@@ -1,7 +1,7 @@
 <div align="center">
   
 # pauytrh
-### Professional Microsoft Hater **&&** Arch user BTW
+### Professional Microslop Hater **&&** Arch user BTW
 
 A useless dev *(I do absolutely nothing)*
 
@@ -13,15 +13,15 @@ A useless dev *(I do absolutely nothing)*
 
 ---
 
-**Socials**
+**Contact Me!**
 
 *[Codeberg](https://codeberg.org/pauytrh)*
 
 *[Website](https://pauytrh2.github.io)*
 
-*[YouTube](https://youtube.com/@pauytrh)*
+*[YouTube](https://youtube.com/@pauytrh)* (You should use [invidious](http://invidio.us/@pauytrh)!)
 
-*[Email](mailto:pauytrh@gmail.com)*
+*[Email](mailto:pauytrh@disroot.org)* (Please use PGP if contacting from a spying email provider [Gmail, Outlook, etc.])
 
 ![Facebook](https://www.stallman.org/no-facebook.svg)
 
