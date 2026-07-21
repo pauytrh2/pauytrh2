@@ -15,7 +15,7 @@ A useless dev *(I do absolutely nothing)*
 
 **Contact Me!**
 
-My name is dave
+My name is שלומי
 
 *[Codeberg](https://codeberg.org/pauytrh)*
 
