@@ -25,6 +25,6 @@ My name is שלומי
 
 *[Email](mailto:pauytrh@disroot.org)* (Please use PGP if contacting from a spying email provider [Gmail, Outlook, etc.])
 
-![Facebook](https://www.stallman.org/no-facebook.svg)
+![Facebook](no-facebook.svg)
 
 </div>
